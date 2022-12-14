@@ -1,1 +1,2 @@
 *.rmd linguist-language=R
+*.html -linguist-detectable
